@@ -11,7 +11,7 @@ Feature: Time of day formatted as spoken words
       |hour|minute|second|result                                 |
       |9   |0     |0     |nine in the morning                    |
       |20  |4     |45    |almost ten after eight in the evening  |
-      |1012  |11    |12   |ten after ten in the morning           |
+      |10  |11    |12    |ten after ten in the morning           |
       |22  |12    |12    |ten after ten in the evening           |
       |10  |14    |35    |a quarter after ten in the morning     |
       |5   |21    |18    |twenty after five at night             |
